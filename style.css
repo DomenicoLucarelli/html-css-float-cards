@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fredoka', sans-serif;
+
+}
+/* header  */
+header{
+    /* debug */
+    border: 1px solid lightblue;
+
+    width: 1000px;
+    margin: auto;
+    color: #e52e6e;
+    text-align: center;
+    padding: 20px 0px 20px 0px;
+}
+/* /header  */
+
+section{
+     /* debug */
+    border: 1px solid lightblue;
+
+    width: 1000px;
+    margin: auto;
+    padding: 30px 0px 30px 0px ;
+    text-align: center;
+
+}
